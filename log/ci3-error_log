@@ -1,0 +1,30 @@
+[Wed May 18 16:41:33.511686 2016] [authz_core:error] [pid 7439] [client 127.0.0.1:41124] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:41:38.918077 2016] [authz_core:error] [pid 7440] [client 127.0.0.1:41136] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:41:47.257391 2016] [authz_core:error] [pid 7441] [client 127.0.0.1:41156] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:41:47.351978 2016] [authz_core:error] [pid 7441] [client 127.0.0.1:41156] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:16.274000 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:16.328410 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:16.963379 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:17.011044 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:17.418897 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:17.468860 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:17.581589 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:17.633411 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:17.740891 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:17.794898 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:17.884847 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/
+[Wed May 18 16:42:17.960259 2016] [authz_core:error] [pid 7442] [client 127.0.0.1:41204] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:42:21.777575 2016] [authz_core:error] [pid 7443] [client 127.0.0.1:41206] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:42:24.254414 2016] [authz_core:error] [pid 7564] [client 127.0.0.1:41212] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/favicon.ico, referer: http://ci3.local/
+[Wed May 18 16:43:22.857137 2016] [authz_core:error] [pid 7671] [client 127.0.0.1:41316] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:58.173043 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:58.296063 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.012527 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.224587 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.390539 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.535064 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.731392 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:43:59.979938 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:44:00.148810 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:44:00.272768 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
+[Wed May 18 16:44:00.436638 2016] [authz_core:error] [pid 7672] [client 127.0.0.1:41370] AH01630: client denied by server configuration: /home/jel/Code/Github/basket_crud/www/index.php
